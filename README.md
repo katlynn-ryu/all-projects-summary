@@ -24,7 +24,7 @@ The SignLanguage Giphy Website is an innovative project at providing an accessib
 - Interactive UI
 
 ## Screenshots:
-![Home Page] (./screenshots/homepage.png)
+![Home Page](./screenshots/homepage.png)
 ![Search Results]
 ![Category Filter] 
 
